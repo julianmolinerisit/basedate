@@ -1,0 +1,14 @@
+npx create-react-app nombre-proyecto (con npx y el create vamos a obtener una app completa con todas sus carpetas a diferencia de npm init que solo crea el json.)
+npm install react-bulma-components --save (es un framework que nos ofrece componentes y modulos predefinidos.)
+
+npm install prop-types --save-dev (nos ayuda a validar que los props que reciban nuestros componentes tengan valor o no)
+
+npm install axios (para realizar solicitudes http)
+
+
+
+instalar del lado del server backend:
+ npm i cors --save  (para indicarle al back que sea consumido por elementos externos)
+
+
+
